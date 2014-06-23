@@ -1,0 +1,20 @@
+{
+    "name": "PomeloClientForServer",
+    "version": "0.1.0",
+    "main": "index.js",
+    "private": false,
+    "description": "A Pomelo js clinent for server pomelo服务的客户端",
+    "author": {
+     "name": "merikey8@126.com",
+     "name":" guhaizhou@126.com"
+    }
+    "dependencies": {
+       "pomelo-protobuf": "0.3.5",
+       "pomelo-protocol": "0.1.0",
+       "ws": "0.4.25"
+     },
+    "keywords": [
+	"pomelo client",
+	"pomeloClient"
+     ]
+}
